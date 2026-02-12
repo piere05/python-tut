@@ -1,0 +1,23 @@
+[
+    {
+        "Name": "Piere",
+        "Degree": "MCA",
+        "Age": 21
+    },
+    {
+        "Name": "Alvin",
+        "Degree": "MSC. CS",
+        "Age": 21
+    },
+
+    {
+        "Name": "Piere",
+        "Degree": "MCA",
+        "Age": 21
+    },
+    {
+        "Name": "Alvin",
+        "Degree": "MSC. CS",
+        "Age": 21
+    }
+]
